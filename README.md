@@ -1,7 +1,7 @@
 ### Olá, eu sou o Pedro! 👋
 
 <p align="left">
-  Sou um desenvolvedor júnior apaixonado por tecnologia, prestes a concluir o curso técnico em Desenvolvimento de Sistemas. 
+  Sou um aspirante a desenvolvedor júnior apaixonado por tecnologia, prestes a concluir o curso técnico em Desenvolvimento de Sistemas. 
 </p>
 
 <p align="left">
