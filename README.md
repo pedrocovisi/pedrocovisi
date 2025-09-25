@@ -45,7 +45,7 @@
 ### 📫 Entre em Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pedro-henrique-de-oliveira-covisi-4ba670351" target="_blank">
+  <a href="https://www.linkedin.com/in/pedrocovisi" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="mailto:covisip@gmail.com">
